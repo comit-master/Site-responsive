@@ -1,0 +1,74 @@
+
+
+.container.row
+{
+    border: 1px solid black;
+
+}
+
+
+.logo
+{
+    width: 60px;
+    height: 60px;
+    background-color: #00ADE6;
+    color: white;
+    padding: 5px 5px;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+
+}
+
+.logo .number
+{
+    font-size: 22;
+    position: absolute;
+    top: 14;
+}
+
+.site-nav-bar
+{
+    background-color:  #00ADE6;
+}
+
+.nav .nav-item a
+{
+    color:white;
+    font-size: 14px;
+}
+
+.nav-hightlight 
+{
+    background-color: #4DC2EB;
+    margin: 0.5rem 0.5rem;
+    padding: 0px 6px;
+    border-radius: 5px;
+}
+
+.container-sombre
+{
+    background-color:#000145;
+    color:white;
+    padding : 5px 0px
+}
+
+.info-continu-titre
+{
+background-color: black;
+color: white;
+padding: 5px 15px;
+font-size: 22 px;
+}
+
+.info-continu
+{
+    background-color: #eeeeee;
+}
+
+.info-heure
+{
+    background-color: #00a7e3;
+    color: white;
+    padding: 5 px;
+}
